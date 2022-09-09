@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @szymonKochanowski
+- 👋 Hi, I’m @szymonKochanowski - see my profile on linkedin: https://www.linkedin.com/in/szymon-kochanowski-376270182/
 - 👀 I’m interested in Java programming and general about security, especially about armed forces.
 - 🌱 I’m currently learning java librares like as mapstruck, liquibase and base of fronted (HTML, CSS, JavaScript, Thymeleaf).
 - 💞️ I’m looking to mentor with can help me to advice how to solve common problems in real app. 
